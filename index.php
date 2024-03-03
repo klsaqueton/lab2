@@ -20,7 +20,7 @@
     <div style="height:600px; margin:100px;">
         <h1>Information</h1>
         <p style="line-height: 2.0; font-size:20px;">Hello, my name is Kyle Daniel Saqueton, and I attend Asia Pacific College. 
-        I am currently pursuing a degree in BSCS-SS, or Bachelor of Science in Computer Science with a focus in Software and Systems,
+       123 m currently pursuing a degree in BSCS-SS, or Bachelor of Science in Computer Science with a focus in Software and Systems,
         in the hopes of one day realizing my dream of becoming a game developer. I enjoy playing video games, watching television,
         and, when I have free time, riding my bike or playing basketball outside.</p>
         <p style="line-height: 2.0; font-size:20px;">Email me at <a href="mailto:kyledanielsaqueton@gmail.com">kyledanielsaqueton@gmail.com</a></p>
